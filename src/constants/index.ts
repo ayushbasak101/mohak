@@ -56,8 +56,8 @@ export const NAV_LINKS: NavLinksType = {
 			url: "#sponsorships",
 		},
 		{
-			name: "Podcast",
-			url: "http://podcast.techwithkunal.com/",
+			name: "Recomendation",
+			url: "#recomentions",
 			openInNewPage: true,
 		},
 		{
@@ -107,8 +107,8 @@ export const NAV_LINKS_COURSE: NavLinksType = {
 			url: "#syllabus",
 		},
 		{
-			name: "Podcast",
-			url: "http://podcast.techwithkunal.com/",
+			name: "Book",
+			url: "#books",
 			openInNewPage: true,
 		},
 	],
@@ -120,7 +120,7 @@ export const NAV_LINKS_COURSE: NavLinksType = {
 
 export const TESTIMONIALS_HOME: Testimonials = [
 	{
-		text: "We've worked on various collaborations with Kunal's community, all of which have been an extraordinary and profitable experience. Kunal's interest to detail, clear expectations, and innovative work paired with his reach is a fantastic equation. The partnership brought in 100+ chat trials in Q4!",
+		text: "We've worked on various collaborations with Mohak's community, all of which have been an extraordinary and profitable experience. Mohak's interest to detail, clear expectations, and innovative work paired with his reach is a fantastic equation. The partnership brought in 100+ chat trials in Q4!",
 		author: {
 			name: "Kimmy Leslie",
 			image: streamAuthor,
@@ -128,7 +128,7 @@ export const TESTIMONIALS_HOME: Testimonials = [
 		company: streamLogo,
 	},
 	{
-		text: "Partnering with Kunal and his community was one of the highlights for the Teleport team this year. The quality of content is top-notch, the community engagement is very high, and the ROI is there to prove it. It brought in 10K+ new web sessions and 100+ downloads with majority being new users.",
+		text: "Partnering with Mohak and his community was one of the highlights for the Teleport team this year. The quality of content is top-notch, the community engagement is very high, and the ROI is there to prove it. It brought in 10K+ new web sessions and 100+ downloads with majority being new users.",
 		company: teleportLogo,
 		author: {
 			name: "Kateryna Ivashchenko",
@@ -136,7 +136,7 @@ export const TESTIMONIALS_HOME: Testimonials = [
 		},
 	},
 	{
-		text: "It's been a great feeling to collaborate with Kunal and his community, and he has made the entire process a pleasure. Kunal has made great contributions to letting more people know the benefits of our services and increase our user base. We got over 11K stars and 5K signups.",
+		text: "It's been a great feeling to collaborate with Mohak and his community, and he has made the entire process a pleasure. Mohak has made great contributions to letting more people know the benefits of our services and increase our user base. We got over 11K stars and 5K signups.",
 		company: kubesphereLogo,
 		author: {
 			name: "Yun Li",
@@ -152,7 +152,7 @@ export const TESTIMONIALS_HOME: Testimonials = [
 		},
 	},
 	{
-		text: "It was extremely successful. We got around 1700 signups through our campaigns. Thank you for everything, Kunal. You have a wonderful community.",
+		text: "It was extremely successful. We got around 1700 signups through our campaigns. Thank you for everything, Mohak. You have a wonderful community.",
 		company: wilcoLogo,
 		author: {
 			name: "Alexandra Macias",
@@ -176,7 +176,7 @@ export const TESTIMONIALS_HOME: Testimonials = [
 		},
 	},
 	{
-		text: "AMAZING!!! After every activity with Kunal my community grows by 100s and the same goes for GH stars!",
+		text: "AMAZING!!! After every activity with Mohak my community grows by 100s and the same goes for GH stars!",
 		company: komodorLogo,
 		author: {
 			name: "Udi Hofesh",
@@ -203,49 +203,49 @@ export const TESTIMONIALS_HOME: Testimonials = [
 
 export const TESTIMONIALS_COURSES: Testimonials = [
 	{
-		text: "Completed @kunalstwt's DevOps bootcamp networking video. Really awesome explanation, got a clear overview of whole networking process. Application layer is perfectly understood.",
+		text: "Completed @Mohakstwt's DevOps bootcamp networking video. Really awesome explanation, got a clear overview of whole networking process. Application layer is perfectly understood.",
 		author: {
 			name: "Anurag Pathak",
 			image: testimonialAnuragh,
 		},
 	},
 	{
-		text: "The way this guy is teaching me Java is just Mind Blowing and Brilliant. I've never thought that these topics would be that much easier. Kudos to @kunalstwt",
+		text: "The way this guy is teaching me Java is just Mind Blowing and Brilliant. I've never thought that these topics would be that much easier. Kudos to @Mohakstwt",
 		author: {
 			name: "Rahul Kumar",
 			image: testimonialRahul,
 		},
 	},
 	{
-		text: "Thanks @kunalstwt for helping me understand the benefits of Binary Search and how it's a lot effective than linear search. Understood the theory now and will be solving questions with @WeMakeDevs and build up the concept.",
+		text: "Thanks @Mohakstwt for helping me understand the benefits of Binary Search and how it's a lot effective than linear search. Understood the theory now and will be solving questions with @WeMakeDevs and build up the concept.",
 		author: {
 			name: "Ekjot Singh",
 			image: testimonialEkjot,
 		},
 	},
 	{
-		text: "Hii Kunal! Just wanted to thank you. In my freshman year you introduced me to open source and In my 2nd year i made it to GSoC with @RocketChat",
+		text: "Hii Mohak! Just wanted to thank you. In my freshman year you introduced me to open source and In my 2nd year i made it to GSoC with @RocketChat",
 		author: {
 			name: "Irffan",
 			image: testimonialIrffan,
 		},
 	},
 	{
-		text: "Done with amazing playlist of Object Oriented Programming by @kunalstwt bhaiya. Every concept was explained very well and got to know so many new things. Thanks kunal bhaiya for such an amazing playlist.",
+		text: "Done with amazing playlist of Object Oriented Programming by @Mohakstwt bhaiya. Every concept was explained very well and got to know so many new things. Thanks Mohak bhaiya for such an amazing playlist.",
 		author: {
 			name: "Sajjan Yadav",
 			image: testimonialSajjan,
 		},
 	},
 	{
-		text: "Finally, completed 4 hour long video on computer networking. Amazing content @kunalstwt. Thanks for creating such an educational content for us 🙌🙌",
+		text: "Finally, completed 4 hour long video on computer networking. Amazing content @Mohakstwt. Thanks for creating such an educational content for us 🙌🙌",
 		author: {
 			image: testimonialPrassana,
 			name: "Prasanna",
 		},
 	},
 	{
-		text: "What an explanation 🔥 on recursion! This dsa course is just absolutely amazing. Thank you Kunal Kushwaha for this amazing course.",
+		text: "What an explanation 🔥 on recursion! This dsa course is just absolutely amazing. Thank you Mohak Maheshwari for this amazing course.",
 		author: {
 			name: "Siva",
 			image: testimonialSiva,
@@ -259,32 +259,32 @@ export const FOOTER_LINKS: FooterLinks = [
 		links: [
 			{
 				name: "YouTube",
-				url: "https://www.youtube.com/@kunalkushwaha",
+				url: "https://www.youtube.com/@Mohakkushwaha",
 				openInNewPage: true,
 			},
 			{
 				name: "Twitter",
-				url: "https://twitter.com/kunalstwt",
+				url: "https://twitter.com/Mohakstwt",
 				openInNewPage: true,
 			},
 			{
 				name: "LinkedIn",
-				url: "https://www.linkedin.com/in/kunal-kushwaha/",
+				url: "https://www.linkedin.com/in/Mohak-kushwaha/",
 				openInNewPage: true,
 			},
 			{
 				name: "Instagram",
-				url: "https://www.instagram.com/kunalsig/",
+				url: "https://www.instagram.com/Mohaksig/",
 				openInNewPage: true,
 			},
 			{
 				name: "Bluesky",
-				url: "https://bsky.app/profile/techwithkunal.com",
+				url: "https://bsky.app/profile/techwithMohak.com",
 				openInNewPage: true,
 			},
 			{
 				name: "TikTok",
-				url: "https://www.tiktok.com/@kunalstt",
+				url: "https://www.tiktok.com/@Mohakstt",
 				openInNewPage: true,
 			},
 		],
@@ -294,22 +294,22 @@ export const FOOTER_LINKS: FooterLinks = [
 		links: [
 			{
 				name: "GitHub",
-				url: "https://github.com/kunal-kushwaha",
+				url: "https://github.com/Mohak-kushwaha",
 				openInNewPage: true,
 			},
 			{
 				name: "Reddit",
-				url: "https://www.reddit.com/user/KunalsReddit/",
+				url: "https://www.reddit.com/user/MohaksReddit/",
 				openInNewPage: true,
 			},
 			{
 				name: "Credly",
-				url: "https://www.credly.com/users/kunalkushwaha/badges",
+				url: "https://www.credly.com/users/Mohakkushwaha/badges",
 				openInNewPage: true,
 			},
 			{
 				name: "YouTube Hindi",
-				url: "https://www.youtube.com/@KunalHindi",
+				url: "https://www.youtube.com/@MohakHindi",
 				openInNewPage: true,
 			},
 		],
@@ -324,7 +324,7 @@ export const FOOTER_LINKS: FooterLinks = [
 			},
 			{
 				name: "Blog",
-				url: "https://techwithkunal.substack.com/",
+				url: "https://techwithMohak.substack.com/",
 				openInNewPage: true,
 			},
 			{
@@ -367,7 +367,7 @@ export const COURSES: CoursesInfo = [
 				title: "Sign up to Pieces",
 				description:
 					"Elevate your note taking journey with this AI tool",
-				url: "https://pieces.app/?utm_source=kunal-kushwaha&utm_medium=referral&utm_campaign=kunal-partner-site",
+				url: "https://pieces.app/?utm_source=Mohak-kushwaha&utm_medium=referral&utm_campaign=Mohak-partner-site",
 			},
 		],
 		syllabus: [
@@ -424,12 +424,12 @@ export const COURSES: CoursesInfo = [
 				title: "Sign up to Pieces",
 				description:
 					"Elevate your note taking journey with this AI tool",
-				url: "https://pieces.app/?utm_source=kunal-kushwaha&utm_medium=referral&utm_campaign=kunal-partner-site",
+				url: "https://pieces.app/?utm_source=Mohak-kushwaha&utm_medium=referral&utm_campaign=Mohak-partner-site",
 			},
 			{
 				title: "Code repository link",
 				description: "Access lecture code, notes and assignments",
-				url: "https://github.com/kunal-kushwaha/Intro-to-Gen-AI-and-RAG",
+				url: "https://github.com/Mohak-kushwaha/Intro-to-Gen-AI-and-RAG",
 			},
 		],
 		syllabus: [
@@ -493,12 +493,12 @@ export const COURSES: CoursesInfo = [
 				title: "Sign up to Pieces",
 				description:
 					"Elevate your note taking journey with this AI tool",
-				url: "https://pieces.app/?utm_source=kunal-kushwaha&utm_medium=referral&utm_campaign=kunal-partner-site",
+				url: "https://pieces.app/?utm_source=Mohak-kushwaha&utm_medium=referral&utm_campaign=Mohak-partner-site",
 			},
 			{
 				title: "Notes & assignments",
 				description: "Access lecture code, notes and assignments",
-				url: "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+				url: "https://github.com/Mohak-kushwaha/DSA-Bootcamp-Java",
 			},
 		],
 		syllabus: [
@@ -604,12 +604,12 @@ export const COURSES: CoursesInfo = [
 				title: "Sign up to Pieces",
 				description:
 					"Elevate your note taking journey with this AI tool",
-				url: "https://pieces.app/?utm_source=kunal-kushwaha&utm_medium=referral&utm_campaign=kunal-partner-site",
+				url: "https://pieces.app/?utm_source=Mohak-kushwaha&utm_medium=referral&utm_campaign=Mohak-partner-site",
 			},
 			{
 				title: "Notes & Assignments",
 				description: "Access lecture code, notes and assignments",
-				url: "https://github.com/kunal-kushwaha/DevOps-Bootcamp",
+				url: "https://github.com/Mohak-kushwaha/DevOps-Bootcamp",
 			},
 		],
 		syllabus: [

@@ -81,7 +81,7 @@ const Navbar = ({ className, ...props }: NavbarProps) => {
 				<Link href="/">
 					<Image
 						src={logoType}
-						alt="Kunal Kushwaha"
+						alt="Mohak Maheshwari"
 						className="w-40 md:w-48 lg:w-52"
 					/>
 				</Link>

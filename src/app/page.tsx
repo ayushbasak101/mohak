@@ -45,7 +45,7 @@ export default function Home() {
 					.
 				</HeaderTitle>
 				<HeaderDescription>
-					Kunal Kushwaha is a Senior Developer Advocate at{" "}
+					Mohak Maheshwari is a Senior Developer Advocate at{" "}
 					<Link
 						href="https://cast.ai/?ref_id=289"
 						className="underline hover:no-underline"
@@ -77,7 +77,7 @@ export default function Home() {
 						YouTube
 					</Link>{" "}
 					has been watched by millions. A passionate advocate for open
-					source, Kunal regularly speaks at industry conferences on
+					source, Mohak regularly speaks at industry conferences on
 					cloud, AI, and developer growth.
 				</HeaderDescription>
 				<HeaderCta>
@@ -98,7 +98,7 @@ export default function Home() {
 						Get in touch
 					</Link>
 				</HeaderCta>
-				<HeaderImage src={header} alt="Kunal Kushwaha" />
+				<HeaderImage src={header} alt="Mohak Maheshwari" />
 			</Header>
 			<About />
 			<Courses />

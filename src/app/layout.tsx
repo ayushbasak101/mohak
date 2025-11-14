@@ -16,16 +16,16 @@ const fontSerif = Source_Serif_4({
 });
 
 export const metadata: Metadata = {
-	title: "Kunal Kushwaha",
+	title: "Mohak Maheshwari",
 	description:
-		"Kunal is Senior Developer Advocate at CAST AI, CNCF Ambassador and a GitHub star.",
+		"Mohak is Senior Developer Advocate at CAST AI, CNCF Ambassador and a GitHub star.",
 	metadataBase: new URL("https://techwithkunal.com"),
 	openGraph: {
-		title: "Kunal Kushwaha",
+		title: "Mohak Maheswari",
 		description:
-			"Kunal is Senior Developer Advocate at CAST AI, CNCF Ambassador and a GitHub star.",
+			"Mohak is Senior Developer Advocate at CAST AI, CNCF Ambassador and a GitHub star.",
 		url: "https://techwithkunal.com",
-		siteName: "Kunal Kushwaha",
+		siteName: "Mohak Maheswari",
 		images: {
 			url: "/opengraph-image.png",
 			width: 1920,

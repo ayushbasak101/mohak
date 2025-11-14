@@ -49,21 +49,21 @@ const partnersData: PartnerData[] = [
 		logo: teleportLogo,
 		author: "Kateryna Ivashchenko",
 		name: "Teleport",
-		quote: "Partnering with Kunal and his community was one of the highlights for the Teleport team this year. The quality of content is top-notch, the community engagement is very high, and the ROI is there to prove it. It brought in 10K+ new web sessions and 100+ downloads with majority being new users.",
+		quote: "Partnering with Mohak and his community was one of the highlights for the Teleport team this year. The quality of content is top-notch, the community engagement is very high, and the ROI is there to prove it. It brought in 10K+ new web sessions and 100+ downloads with majority being new users.",
 	},
 	{
 		image: wilcoAuthor,
 		logo: wilcoLogo,
 		author: "Alexandra Macias",
 		name: "Wilco",
-		quote: "It was extremely successful. We got around 1700 signups through our campaigns. Thank you for everything, Kunal. You have a wonderful community.",
+		quote: "It was extremely successful. We got around 1700 signups through our campaigns. Thank you for everything, Mohak. You have a wonderful community.",
 	},
 	{
 		image: kubesphereAuthor,
 		logo: kubesphereLogo,
 		author: "Yun Li",
 		name: "Kubesphere",
-		quote: "It's been a great feeling to collaborate with Kunal and his community, and he has made the entire process a pleasure. Kunal has made great contributions to letting more people know the benefits of our services and increase our user base. We got over 11K stars and 5K signups.",
+		quote: "It's been a great feeling to collaborate with Mohak and his community, and he has made the entire process a pleasure. Mohak has made great contributions to letting more people know the benefits of our services and increase our user base. We got over 11K stars and 5K signups.",
 	},
 	{
 		image: kubesphereAuthor2,
@@ -77,7 +77,7 @@ const partnersData: PartnerData[] = [
 		logo: komodorLogo,
 		author: "Udi Hofesh",
 		name: "Komodor",
-		quote: "AMAZING!!! After every activity with Kunal my community grows by 100s and the same goes for GH stars!",
+		quote: "AMAZING!!! After every activity with Mohak my community grows by 100s and the same goes for GH stars!",
 	},
 	{
 		image: riseinAuthor,
@@ -91,7 +91,7 @@ const partnersData: PartnerData[] = [
 		logo: streamLogo,
 		author: "Kimmy Leslie",
 		name: "Stream",
-		quote: "We've worked on various collaborations with Kunal's community, all of which have been an extraordinary and profitable experience. Kunal's interest to detail, clear expectations, and innovative work paired with his reach is a fantastic equation. The partnership brought in 100+ chat trials in Q4!",
+		quote: "We've worked on various collaborations with Mohak's community, all of which have been an extraordinary and profitable experience. Mohak's interest to detail, clear expectations, and innovative work paired with his reach is a fantastic equation. The partnership brought in 100+ chat trials in Q4!",
 	},
 	{
 		image: slashdataAuthor,

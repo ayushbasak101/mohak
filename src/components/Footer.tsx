@@ -20,7 +20,7 @@ const Footer = ({ className, ...props }: FooterProps) => {
 					<div className="">
 						<Image
 							src={logoTypeLight}
-							alt="Kunal Kushwaha"
+							alt="Mohak Maheshwari"
 							className="w-40 md:48 lg:w-52"
 						/>
 						<Link
@@ -74,7 +74,7 @@ const Footer = ({ className, ...props }: FooterProps) => {
 				</div>
 				<div className="border-t border-gray-600 pt-8 mt-12">
 					<p className="text-gray-400 text-center">
-						© 2024 Kunal Kushwaha. All rights reserved.
+						© 2025 Mohak Maheshwari. All rights reserved.
 					</p>
 				</div>
 			</ViewContainer>
